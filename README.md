@@ -1,4 +1,4 @@
-# Heroes_of_PyMoli - Pandas Assgnment
+# Heroes_of_PyMoli - Pandas Assignment
 DataAnalytics BootCamp Using Pandas
 
 ## Background
