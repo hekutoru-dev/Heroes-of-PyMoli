@@ -1,5 +1,5 @@
-# Heroes_of_PyMoli - Pandas Assignment
-DataAnalytics BootCamp Using Pandas
+# Heroes_of_PyMoli - Pandas
+Data Analytics Using Pandas (Assigment 04)
 
 ## Background
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete one Data Challenge.
